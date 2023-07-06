@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Sonal",
+      "lastName": "Suresh",
+      "email": "Sonal@gmail.com",
+      "dob": "1992-01-27T18:30:00.000Z",
+      "gender": "1",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 2,
+      "package": 3,
+      "id": 1
+    }
+  ]
+}
