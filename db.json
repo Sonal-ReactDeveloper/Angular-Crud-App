@@ -28,6 +28,18 @@
       "experience": 2,
       "package": 3,
       "id": 1
+    },
+    {
+      "firstName": "Ashin",
+      "lastName": "James",
+      "email": "ashin@gmail.com",
+      "dob": "1993-08-09T18:30:00.000Z",
+      "gender": "1",
+      "education": "Graduate",
+      "company": "Citrix",
+      "experience": 3,
+      "package": 13,
+      "id": 2
     }
   ]
 }
